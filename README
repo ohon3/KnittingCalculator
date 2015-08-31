@@ -1,0 +1,16 @@
+A test upload for GitHub
+
+Version: 1.0
+
+PURPOSE:
+In order to help beginner knitters learn how to make hats, this code portion is aimed toward helping them calculation the number of stitches needed to close up a hat knit in the round, assuming that they began from the brim of the hat and are working their way up to the crown.
+
+INPUT:
+The number of stitches currently on the circular needles
+
+OUTPUT:
+The number of stitches between each decrease
+
+CHANGE LOG:
+
+2015/30/08 - Initial test commit.
