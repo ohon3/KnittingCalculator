@@ -23,5 +23,5 @@ RUN CALCULATE.JAVA
 - Full documentation of methods
 	
 ##CHANGE LOG:
-- 2015/30/08 - Initial test commit.
-- 2015/30/08 - Added StitchMath.java and basic working components of class.
+- 2015/30/08  Initial test commit.
+- 2015/30/08  Added StitchMath.java and basic working components of class.
